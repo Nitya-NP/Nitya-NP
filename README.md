@@ -38,7 +38,7 @@ and care about writing code that actually solves problems.
 
 ## 🏅 Highlights
 
-- 🥈 **2nd Place** — McMaster Engineering Showcase (200+ projects) - ChordHero
+- 🥈 **2nd Place** — McMaster Engineering Showcase (200+ projects)
 - 💼 **JPMorganChase** Software Engineering Certificate (Forage)
 - 📊 **Deloitte** Data Analytics Certificate (Forage)
 - 🤖 **Tata** GenAI Powered Data Analytics Certificate (Forage)
@@ -47,5 +47,5 @@ and care about writing code that actually solves problems.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN)](https://www.linkedin.com/in/nitya-patel-838072301/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([https://YOUR-PORTFOLIO](https://nityapatel-portfolio.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-patel-838072301/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nityapatel-portfolio.vercel.app/)
