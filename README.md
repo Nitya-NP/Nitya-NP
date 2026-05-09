@@ -20,7 +20,7 @@ and care about writing code that actually solves problems.
 - **Languages:** Python, Java, C, C#, JavaScript, HTML, CSS
 - **Frameworks & Tools:**  Git, GitHub, Bash, React.js, Node.js, REST APIs, FastAPI, CI/CD, Render, Vercel
 - **AI & ML:** LLM integration, Groq, Llama3, Prompt Engineering
-- **Software Engineering:** OOP, Data Structures, Algorithms, Agile, SDLC, Testing, Debugging
+- **Software Engineering:** OOP, Data Structures, Algorithms, SDLC, Testing, Debugging
 
 ---
 
