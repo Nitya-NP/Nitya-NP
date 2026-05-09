@@ -1,7 +1,6 @@
 # Hi, I'm Nitya 👋
 
-🎓 Software Engineering @ McMaster University (Co-op, 2024–2029)
-🤖 Building AI tools, backend systems and real-world software
+🎓 Software Engineering @ McMaster University
 
 ---
 
