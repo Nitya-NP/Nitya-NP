@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 Aspiring Software Engineer focused on building AI-powered systems,
 scalable backend applications, and data-driven solutions.
@@ -18,10 +18,10 @@ and care about writing code that actually solves problems.
 
 ## 🧠 Technical Skills
 
-📌 **Languages:** Python, Java, C, C#, JavaScript, HTML, CSS
-📌 **Frameworks & Tools:**  Git, GitHub, Bash, React.js, Node.js, REST APIs, FastAPI, CI/CD, Render, Vercel
-📌 **AI & ML:** LLM integration, Groq, Llama3, Prompt Engineering
-📌 **Engineering:** OOP, Data Structures, Algorithms, Agile, SDLC, Testing, Debugging
+- **Languages:** Python, Java, C, C#, JavaScript, HTML, CSS
+- **Frameworks & Tools:**  Git, GitHub, Bash, React.js, Node.js, REST APIs, FastAPI, CI/CD, Render, Vercel
+- **AI & ML:** LLM integration, Groq, Llama3, Prompt Engineering
+- **Software Engineering:** OOP, Data Structures, Algorithms, Agile, SDLC, Testing, Debugging
 
 ---
 
