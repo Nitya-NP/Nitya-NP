@@ -27,11 +27,11 @@ I like building backend systems and AI-powered tools, especially ones that autom
 
 ## Tech I use
 
-**Languages:** Java, Python, JavaScript, C, C#, HTML, CSS
-**Backend & Cloud:** Spring Boot, FastAPI, REST APIs, Azure, Docker, MongoDB
-**Frontend:** React.js, Node.js
-**Tools & Practices:** Git, GitHub Actions, CI/CD, SonarQube, Agile, Unit Testing
-**AI:** LLM APIs, prompt engineering, agentic workflows
+- **Languages:** Java, Python, JavaScript, C, C#, HTML, CSS
+- **Backend & Cloud:** Spring Boot, FastAPI, REST APIs, Azure, Docker, MongoDB
+- **Frontend:** React.js, Node.js
+- **Tools & Practices:** Git, GitHub Actions, CI/CD, SonarQube, Agile, Unit Testing
+- **AI:** LLM APIs, prompt engineering, agentic workflows
 
 ---
 
